@@ -14,3 +14,5 @@ This program encrypts and decrypts files, using a QR code as the key using Ferne
 - Run decrypt.py
 - Enter the name of the file you want to decrypt
 - Show the QR code in front of the webcam
+
+Like it? Send me BTC! bitcoin:bc1qdrchnx94jkjm0w8zfj3der2082rvn0482nsc6l?time=1648077358
